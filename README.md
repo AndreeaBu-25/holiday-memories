@@ -20,7 +20,7 @@ iOS application, developed using SwiftUI and MapKit in Xcode. It features an int
 - All added locations can be viewed later with their full details
 - All data is stored locally on the device
 
-## future improvements 
+## Future improvements 
 
 - iCloud sync
 - trip sharing
