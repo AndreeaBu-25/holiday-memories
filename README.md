@@ -1,5 +1,7 @@
 # Holiday-memories
 
+This project is currently a work in progress.
+
 iOS application, developed using SwiftUI and MapKit in Xcode. It features an interactive white world map (generated from a GeoJSON file), where users can tap on any country to add travel details such as: location name, start and end dates, number of people, travel companions, transportation method, trip photos, personal notes, and a 5-star rating. Users can also customize the color of visited countries directly on the map. Each trip is saved and linked to the selected country, tracking the number of visits. A separate view displays all trip details, making this app ideal for travel enthusiasts who want to document and visualize their journeys.
 
 ## How it works
@@ -22,10 +24,11 @@ iOS application, developed using SwiftUI and MapKit in Xcode. It features an int
 
 ## Future improvements 
 
-- iCloud sync
-- trip sharing
+- add Edit button in the location view, to be able to modify an already added trip
 - wish list
-- bug fixing 
+- iCloud sync
+- create account
+- trip sharing 
 
 ## Technology used
 
